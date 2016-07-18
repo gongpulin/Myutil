@@ -1,4 +1,4 @@
-package com.gpl.util;
+package com.gpl.util.db;
 
 import java.util.List;
 import java.util.Map;

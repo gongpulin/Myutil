@@ -1,4 +1,4 @@
-package com.gpl.util;
+package com.gpl.util.db;
 
 import java.io.Serializable;
 import javax.crypto.Cipher;

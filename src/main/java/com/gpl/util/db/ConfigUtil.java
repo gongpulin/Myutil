@@ -1,4 +1,4 @@
-package com.gpl.util;
+package com.gpl.util.db;
 
 import org.dom4j.Document;
 import org.dom4j.Element;

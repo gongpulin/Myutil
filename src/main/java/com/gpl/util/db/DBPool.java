@@ -1,4 +1,4 @@
-package com.gpl.util;
+package com.gpl.util.db;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import java.sql.Connection;

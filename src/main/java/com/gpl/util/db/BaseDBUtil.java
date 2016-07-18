@@ -1,4 +1,4 @@
-package com.gpl.util;
+package com.gpl.util.db;
 
 import java.sql.*;
 import java.util.ArrayList;
