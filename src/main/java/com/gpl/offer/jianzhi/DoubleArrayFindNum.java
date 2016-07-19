@@ -24,13 +24,13 @@ public class DoubleArrayFindNum {
         return isFind;
     }
 
-    public boolean myfind(int array[][],int target){
-        boolean isFind = false;
-        int cols = array.length; //数组行数
-        int rows = array[0].length; //数组列数
-        int i =  0;
-        return  isFind;
-    }
+//    public boolean myfind(int array[][],int target){
+//        boolean isFind = false;
+//        int cols = array.length; //数组行数
+//        int rows = array[0].length; //数组列数
+//        int i =  0;
+//        return  isFind;
+//    }
 
     public static void main(String args[]){
         DoubleArrayFindNum daf = new DoubleArrayFindNum();
