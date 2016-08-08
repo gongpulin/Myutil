@@ -3,7 +3,7 @@ package com.gpl.offer.jianzhi;
 /**
  * Created by gpl on 2016/8/3.
  */
-public class BuileTree {
+public class BuildTree {
     public TreeNode reConstrucBinaryTree(int[] pre,int[] in){
         int len_pre = pre.length;
         int len_in = in.length;
@@ -30,7 +30,7 @@ public class BuileTree {
     public static void main(String args[]){
         int[] pre = {1,2,4,7,3,5,6,8};
         int[] in = {4,7,2,1,5,3,8,6};
-        BuileTree bt = new BuileTree();
+        BuildTree bt = new BuildTree();
         TreeNode root = bt.reConstrucBinaryTree(pre,in);
         bt.TraverseTree_in(root);
     }
